@@ -1,0 +1,6 @@
+id=codex_autolark_bundle
+name=Timed Lark with FakeWifi
+version=v2.5.0
+versionCode=250
+author=Codex
+description=Bundles FakeWifi and Timed Check-in apps with boot scheduling and Vector scope setup.
